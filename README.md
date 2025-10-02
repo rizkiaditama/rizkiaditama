@@ -45,10 +45,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<p align="left">Play With Game</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/https://github.com/rizkiaditama/rizkiaditama/https://github.com/rizkiaditama/rizkiaditama/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
